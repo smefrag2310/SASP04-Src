@@ -1,0 +1,17 @@
+site_name: SASP04
+
+nav:
+  - Home: index.md
+  - SASP: sostenibilidad.md
+  - ODS: ods13-AccionPorElClima.md
+  - Reflexión: reflexiones.md
+
+theme: 
+  name: material
+  color_mode: dark
+  nav_style: primary
+  hightlightjs: true
+  locale: es
+  titles_only: true
+  
+language: es
